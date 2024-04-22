@@ -1,0 +1,16 @@
+{
+  "name": "computer-science-notes",
+  "module": "index.ts",
+  "type": "module",
+  "engines": {
+    "node": "19.x"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
